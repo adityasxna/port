@@ -7,5 +7,4 @@ public class bkc{
         }
         System.out.println("A"+(temp1+10));
     }
- 
 }
